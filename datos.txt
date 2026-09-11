@@ -1,1 +1,2 @@
 Cuando cambiaba el nombre de la rama con <git branch> como que no pasaba nada, ya investigando me encontré con el comando <git branch --show-current> para revisar el nombre de la rama, también encontré que para puedo actualizar el nombre de la rama del directorio en GitHub con <git push -u origin>, por si acaso lo voy a hacer, me imagino que es después de sincronizar el directorio con GitHub si no tendría mucho sentido.
+Este archivo fue modificado desde GitHub.
